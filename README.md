@@ -1,3 +1,4 @@
 # Probability
 
-Repo to store notes taken in probability course.
+Repo containing the notes taken in the probability course.
+Data mining certificate.
